@@ -21,7 +21,7 @@ I enjoy exploring new technologies, turning ideas into working applications, and
 
 🛠️ Tech Stack
 
-Languages
+1) Languages
 
 -HTML
 
@@ -34,7 +34,7 @@ Languages
 -TypeScript (if applicable)
 
 
-Tools & Platforms
+2) Tools & Platforms
 
 -Git
 
