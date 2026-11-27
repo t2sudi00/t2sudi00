@@ -1,68 +1,59 @@
-Hi, I'm Dinit Khadka 👋
+# Hi, I'm Dinit Khadka 👋
 
-Aspiring Software Developer | Web Development | Kotlin
+### Aspiring Software Developer | Web Development | Kotlin
 
 I'm an intermediate-level developer passionate about building practical applications, solving problems, and continuously improving my software development skills.
 
-I enjoy exploring new technologies, turning ideas into working applications, and writing clean, maintainable code. 
+I enjoy exploring new technologies, turning ideas into working applications, and writing clean, maintainable code.
 
-👨‍💻 About Me
+---
 
-💻 Interested in software engineering and application development.
+## 👨‍💻 About Me
 
-🌱 Continuously learning and improving my development skills.
+- 💻 Interested in software engineering and application development.
+- 🌱 Continuously learning and improving my development skills.
+- 🚀 Building projects to gain practical development experience.
+- 🎯 Working towards a software developer internship or junior developer role.
+- 📍 Based in Finland.
 
-🚀 Building projects to gain practical development experience.
+<br><br>
 
-🎯 Working towards a software developer internship or junior developer role.
+## 🛠️ Tech Stack
 
-📍 Based in Finland.
+### 💻 Languages
 
-<br>
-🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Kotlin
 
-1) Languages
+### ⚙️ Tools & Platforms
 
--HTML
+- Git
+- GitHub
+- Visual Studio Code
+- Android Studio (if applicable)
 
--CSS
+### 🌱 Currently Exploring
 
--JavaScript
+- Responsive Web Design
+- Application Development
+- Backend Development
+- Software Engineering Best Practices
 
--Kotlin
+<br><br>
 
--TypeScript (if applicable)
+## 🎯 My Goals
 
-<br>
-2) Tools & Platforms
+- Build real-world software projects.
+- Improve problem-solving and programming skills.
+- Learn modern development workflows.
+- Collaborate with other developers.
 
--Git
+<br><br>
 
--GitHub
+---
 
--VS Code
+⭐ Thanks for visiting my profile!
 
--Android Studio (if applicable)
-
-Currently Exploring
-
--Responsive Web Design
-
--Application Development
-
--Software Engineering Best Practices
-
--Backend Development
-
-<br>
-📚 What I'm Working Towards
-
--Building real-world software projects.
-
--Improving problem-solving and programming skills.
-
--Learning modern development workflows.
-
--Collaborating with other developers.
-
-Thanks for visiting my profile!
+*Learning, building, and improving every day.*
