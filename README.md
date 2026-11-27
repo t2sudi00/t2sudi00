@@ -18,7 +18,7 @@ I enjoy exploring new technologies, turning ideas into working applications, and
 
 📍 Based in Finland.
 
-
+<br>
 🛠️ Tech Stack
 
 1) Languages
@@ -33,7 +33,7 @@ I enjoy exploring new technologies, turning ideas into working applications, and
 
 -TypeScript (if applicable)
 
-
+<br>
 2) Tools & Platforms
 
 -Git
@@ -54,7 +54,7 @@ Currently Exploring
 
 -Backend Development
 
-
+<br>
 📚 What I'm Working Towards
 
 -Building real-world software projects.
