@@ -9,6 +9,7 @@ I enjoy exploring new technologies, turning ideas into working applications, and
 👨‍💻 About Me
 
 💻 Interested in software engineering and application development.
+
 🌱 Continuously learning and improving my development skills.
 🚀 Building projects to gain practical development experience.
 🎯 Working towards a software developer internship or junior developer role.
