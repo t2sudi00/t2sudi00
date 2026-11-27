@@ -4,7 +4,7 @@ Aspiring Software Developer | Web Development | Kotlin
 
 I'm an intermediate-level developer passionate about building practical applications, solving problems, and continuously improving my software development skills.
 
-I enjoy exploring new technologies, turning ideas into working applications, and writing clean, maintainable code.
+I enjoy exploring new technologies, turning ideas into working applications, and writing clean, maintainable code. 
 
 👨‍💻 About Me
 
